@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #282828;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);;
 }
 
 h1 {
